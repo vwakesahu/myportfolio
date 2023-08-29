@@ -27,7 +27,7 @@ class HomeView extends StackedView<HomeViewModel> {
                 Column(
                   children: [
                     const Text(
-                      'Hello, STACKED!',
+                      'vishal sah',
                       style: TextStyle(
                         fontSize: 35,
                         fontWeight: FontWeight.w900,
